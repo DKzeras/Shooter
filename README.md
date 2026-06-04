@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://dkzeras.github.io/shooter/](https://dkzeras.github.io/shooter/)
+> Abrir essa página em https://github.com/DKzeras/Shooter
 
 ## Usar como extensão
 
